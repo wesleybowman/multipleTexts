@@ -1,0 +1,6 @@
+bell=@txt.bell.ca
+att=@txt.att.net
+koodo=@msg.telus.com
+rogers=@pcs.rogers.com
+verizon=@vtext.com
+alltel=@sms.alltelwireless.com
