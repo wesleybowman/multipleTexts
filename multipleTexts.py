@@ -106,11 +106,9 @@ class getUserData(wx.Frame):
             
             email='%d%s' %(number,service[provider])
             
-            i=0
-            while i<count:
+            for i in range(0,count,1):
                 #userInfo is the username and password, which is set in readInFiles()
                 mail(userInfo[0],userInfo[1],email,"",message)
-                i=i+1
             
             self.Close()
             
