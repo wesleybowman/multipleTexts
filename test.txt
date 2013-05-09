@@ -1,0 +1,10 @@
+./
+../
+.git/
+.gitattributes
+.gitignore
+LICENSE.txt
+multipleTexts.py
+providers.txt
+README.md
+test.txt
